@@ -1,0 +1,14 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+I learned how to put a text in bold and italic using <b> and <i> or <strong> and <em>.
+I also learned how to strike through a text using <strike> and hw to create an horizontal rule using <hr>.
+Most of it was quite easy.
+The most difficult or tricky part was to align all the text with the picture
+<figure> is great to align a text to an image. To do so, all the text has to be between <figure> and </figure>, even if there is text above the picture that need to be aligned.
